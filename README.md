@@ -33,8 +33,9 @@ Here are some ideas to get you started:
 * 🎸🎹🥁🎧 Polyinstrumentalist & DJ (currently trying to learn 🎷)
 * 🖌️ Digital artist & painter
 * 🧗 Climbing addicted
-* 🏍️ Moto owner (Yamaha 660)
-* ... and for some reason I love dinosaurs 🦕
+* 🏍️ Motorbike proud owner (Yamaha 660)
+* ... and for some reason I love dynosaurs 🦕
 
 ## Let's get in touch!
-![image]({https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white})
+![Soundcloud({https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white})](https://soundcloud.com/user-189800668)
+

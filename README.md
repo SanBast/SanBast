@@ -1,6 +1,6 @@
 ### Hi there, Vincenzo's here 👋
 
-![Alt Text](https://giphy.com/gifs/theoffice-the-office-tv-moroccan-christmas-cXblnKXr2BQOaYnTni)
+![Alt Text](https://media.giphy.com/media/cXblnKXr2BQOaYnTni/giphy.gif)
 
 <!--
 **SanBast/SanBast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

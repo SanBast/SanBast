@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 * 🖌️ Digital artist & painter
 * 🧗 Climbing addicted
 * 🏍️ Motorbike proud owner (Yamaha 660)
-* ... and for some reason I love dynosaurs 🦕
+* ... and for some reason I love dinosaurs 🦕
 
 ## 🤔 Bonus: why "SanBast"?
 Well, I love guitars, expecially the electric ones. But there's one specific colour that shines the most among the other guitar palettes: the "Tobacco *Sunburst*". 

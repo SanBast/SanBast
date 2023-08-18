@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 * 🏍️ Motorbike proud owner (Yamaha 660)
 * ... and for some reason I love dynosaurs 🦕
 
-## Bonus: why "SanBast"?
+## 🤔 Bonus: why "SanBast"?
 Well, I love guitars, expecially the electric ones. But there's one specific colour that shines the most among the other guitar palettes: the "Tobacco *Sunburst*". 
 Hence, with a little bit of "name design (lol)", I incorporated the italian rough phonetic sound of *sunburst* in my videogames and github nickname, namely **SanBast** 🍁
 
-## Let's get in touch!
+## 📫 Let's get in touch!
  <a href="mailto:marcianovincenzomv@gmail.com">
     <img align="left" src="./img/gmail_logo.png" alt="SanBast | GMail" width="35px"/>
   </a>

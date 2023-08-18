@@ -41,5 +41,5 @@ Here are some ideas to get you started:
     <img align="left" src="./img/gmail_logo.png" alt="SanBast | GMail" width="35px"/>
   </a>
   <a href="https://soundcloud.com/user-189800668">
-    <img align="left" src="./img/soundcloud-ar21.svg" alt="SanBast | Soundcloud" width="50px"/>
+    <img align="left" src="./img/soundcloud-ar21.svg" alt="SanBast | Soundcloud" width="58px"/>
   </a>

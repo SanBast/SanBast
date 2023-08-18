@@ -41,7 +41,7 @@ Here are some ideas to get you started:
     <img align="left" src="./img/gmail_logo.png" alt="SanBast | GMail" width="35px"/>
   </a>
   <a href="https://www.linkedin.com/in/mrcvcn/">
-    <img align="left" src="./img/linkedin_logo.svg" alt="SanBast | LinkedIn" width="58px"/>
+    <img align="left" src="./img/linkedin_logo.png" alt="SanBast | LinkedIn" width="58px"/>
   </a>
   <a href="https://soundcloud.com/user-189800668">
     <img align="left" src="./img/soundcloud-ar21.svg" alt="SanBast | Soundcloud" width="58px"/>

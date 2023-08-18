@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 * MSc in Data Science and Engineering @ [PoliTo](https://www.polito.it/didattica/corsi-di-laurea-magistrale/data-science-and-engineering/piano-di-studi)
 * BSc in Electronic Engineering @ [PoliTo](https://www.polito.it/didattica/corsi-di-laurea/ingegneria-elettronica/piano-di-studi)
 
-## 〰️ About me
+## 💬 About me
 * 🎸🎹🥁🎧 Polyinstrumentalist & DJ (currently trying to learn 🎷)
 * 🖌️ Digital artist & painter
 * 🧗 Climbing addicted

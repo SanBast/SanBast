@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 
 ## Let's get in touch!
  <a href="mailto:marcianovincenzomv@gmail.com">
-    <img align="left" src="./img/Gmail_icon(2020).svg.png" alt="SanBast | GMail" width="35px"/>
+    <img align="left" src="./img/gmail_logo.png" alt="SanBast | GMail" width="35px"/>
   </a>
   <a href="https://soundcloud.com/user-189800668">
-    <img align="left" src="./img/soundcloud-ar21.svg" alt="SanBast | Soundcloud" width="30px"/>
+    <img align="left" src="./img/soundcloud-ar21.svg" alt="SanBast | Soundcloud" width="35px"/>
   </a>

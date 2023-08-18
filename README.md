@@ -37,5 +37,10 @@ Here are some ideas to get you started:
 * ... and for some reason I love dynosaurs 🦕
 
 ## Let's get in touch!
-<-- ![Soundcloud({https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white})](https://soundcloud.com/user-189800668) -->
-
+ <a href="mailto:marcianovincenzomv@gmail.com">
+    <img align="left" src="./img/gmail_logo.svg" alt="SanBast | GMail" width="35px"/>
+  </a>
+  <a href="https://t.me/ficalindiefest">
+    <img align="left" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/soundcloud/soundcloud-ar21.svg" alt="SanBast | Soundcloud" width="30px"/>
+  </a>
+</p>

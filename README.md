@@ -43,4 +43,3 @@ Here are some ideas to get you started:
   <a href="https://t.me/ficalindiefest">
     <img align="left" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/soundcloud/soundcloud-ar21.svg" alt="SanBast | Soundcloud" width="30px"/>
   </a>
-</p>

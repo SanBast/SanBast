@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## 💻 Experience
 * 📦 Prev. Applied Scientist Intern @ [Amazon - yHat team](https://www.aboutamazon.es/)
-* 🏥 Prev. Research Intern @ [Oak group - The University of Sheffield](https://www.aboutamazon.es/)
+* 🏥 Prev. Research Intern @ [Oak group - The University of Sheffield](https://oak-sheffield.weebly.com/)
 * 🚙 Prev. AI Engineer @ [H2politO](https://areeweb.polito.it/didattica/h2polito/)
 
 ## 🎓 Education

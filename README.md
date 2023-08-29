@@ -20,11 +20,13 @@ Here are some ideas to get you started:
 -->
 
 ## 💻 Experience
+* 📚 Doctoral Research @ [EURECOM](https://ds.eurecom.fr/)
 * 📦 Prev. Applied Scientist Intern @ [Amazon - yHat team](https://www.aboutamazon.es/)
 * 🏥 Prev. Research Intern @ [Oak group - The University of Sheffield](https://oak-sheffield.weebly.com/)
 * 🚙 Prev. AI Engineer @ [H2politO](https://areeweb.polito.it/didattica/h2polito/)
 
 ## 🎓 Education
+* Current PhD in AI for Medical Imaging @ [Sorbonne](https://sciences.sorbonne-universite.fr/en/research-areas/computer-science) - [EURECOM](https://ds.eurecom.fr/) ([3IA funding](https://3ia.univ-cotedazur.eu/))
 * Master's Thesis @ [The University of Sheffield - Insigneo Institute](https://www.sheffield.ac.uk/insigneo)
 * MSc in Data Science and Engineering @ [PoliTo](https://www.polito.it/didattica/corsi-di-laurea-magistrale/data-science-and-engineering/piano-di-studi)
 * BSc in Electronic Engineering @ [PoliTo](https://www.polito.it/didattica/corsi-di-laurea/ingegneria-elettronica/piano-di-studi)

@@ -2,7 +2,7 @@
 
 ![Alt Text](https://media.giphy.com/media/cXblnKXr2BQOaYnTni/giphy.gif)
 
-Nothing serious, just my life recap until now :hand_over_mouth:
+Nothing serious, just my life recap until now
 
 <!--
 **SanBast/SanBast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
